@@ -18,7 +18,7 @@ resources:
     options: --privileged
 
 trigger:
-- master
+- main
 
 stages:
 - stage: build
